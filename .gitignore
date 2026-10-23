@@ -1,0 +1,37 @@
+# Local builds and release downloads
+/build/
+/dist/
+/*.zip
+/drafts/
+/artifacts/
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+
+# Local diagnostics and visual comparisons
+/packaged-*.txt
+/smoke-*.json
+/smoke-*.txt
+/*-check*.png
+/*-compare.png
+/*-review*.jpg
+/*-qc.jpg
+/*-qc.png
+/*-inspect.png
+/smug-reference.png
+/test-alpha.webp
+/pet-preview.png
+/preview.png
+/settings-preview.png
+
+# Runtime uses lossless WebP; these GIF duplicates can be regenerated.
+/assets/gif/*.webp
+/assets/loops/*.gif
+/assets/transitions/*.gif
+/assets/idles/*.gif
+/assets/exits/*.gif

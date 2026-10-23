@@ -1,0 +1,6 @@
+{
+  "algorithm": "EDSR x4, pixel back projection, original alpha contour",
+  "documentation": "https://docs.opencv.org/4.11.0/d5/d29/tutorial_dnn_superres_upscale_image_single.html",
+  "weights": "https://github.com/Saafke/EDSR_Tensorflow",
+  "model_sha256": "dd35ce3cae53ecee2d16045e08a932c3e7242d641bb65cb971d123e06904347f"
+}

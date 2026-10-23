@@ -1,0 +1,6 @@
+Pillow>=11
+numpy>=2
+PySide6>=6.8
+pyinstaller>=6
+pycaw>=20240210
+opencv-python-headless>=4.10

@@ -1,0 +1,184 @@
+[
+  {
+    "id": 1,
+    "name": "封口",
+    "spec": "tape X mouth",
+    "source": "C:/Users/B208/AppData/Local/Temp/codex-clipboard-c7f20955-55a2-490c-9875-8e60d42b15f7.jpg",
+    "kind": "state"
+  },
+  {
+    "id": 2,
+    "name": "得意",
+    "spec": "closed eyes, smug smile and small white puff",
+    "source": "C:/Users/B208/AppData/Local/Temp/codex-clipboard-e1798cac-031c-40ae-902e-dc744b4c1f3a.jpg",
+    "kind": "state"
+  },
+  {
+    "id": 3,
+    "name": "花花",
+    "spec": "white oval eyes, little blue orange flowers held in front",
+    "source": "C:/Users/B208/AppData/Local/Temp/codex-clipboard-aaf52e8a-a81c-4eb3-b77f-0928dbbf94f9.jpg",
+    "kind": "state"
+  },
+  {
+    "id": 4,
+    "name": "眨眼",
+    "spec": "wink and happy open pink mouth",
+    "source": "C:/Users/B208/AppData/Local/Temp/codex-clipboard-88b32e08-58bd-4897-b00d-8fe2dd0c2d06.jpg",
+    "kind": "action"
+  },
+  {
+    "id": 5,
+    "name": "酣睡",
+    "spec": "closed eyes sleepy tongue and blue Zzz",
+    "source": "C:/Users/B208/AppData/Local/Temp/codex-clipboard-090676cd-d707-4432-831c-528dd85620ad.jpg",
+    "kind": "state"
+  },
+  {
+    "id": 6,
+    "name": "吐舌",
+    "spec": "white eyes and tongue sticking out",
+    "source": "C:/Users/B208/AppData/Local/Temp/codex-clipboard-695ca53a-1dd5-4759-8769-c1fb2a54e91a.jpg",
+    "kind": "action"
+  },
+  {
+    "id": 7,
+    "name": "大怒",
+    "spec": "furiously angry eyes, angry mouth and bristling white tail",
+    "source": "C:/Users/B208/AppData/Local/Temp/codex-clipboard-ff104b8d-cdf8-4626-9887-e498ef595923.jpg",
+    "kind": "state"
+  },
+  {
+    "id": 8,
+    "name": "酣睡2",
+    "spec": "deep sleep with drool after 30 seconds of sleeping",
+    "source": "C:/Users/B208/AppData/Local/Temp/codex-clipboard-c41cb457-dc24-4f6c-9b47-2b86d1b85742.jpg",
+    "kind": "state"
+  },
+  {
+    "id": 9,
+    "name": "怒火",
+    "spec": "orange flames around head and tail",
+    "source": "C:/Users/B208/AppData/Local/Temp/codex-clipboard-4d754161-56da-4e72-ab4e-6fc8b8cc8204.jpg",
+    "kind": "state"
+  },
+  {
+    "id": 10,
+    "name": "委屈",
+    "spec": "sad eyes and blue teardrops",
+    "source": "C:/Users/B208/AppData/Local/Temp/codex-clipboard-3e0a35c5-95a0-4437-95ed-960ba1fe552d.jpg",
+    "kind": "state"
+  },
+  {
+    "id": 11,
+    "name": "嫌弃",
+    "spec": "half closed unimpressed white eyes, frowning mouth",
+    "source": "C:/Users/B208/AppData/Local/Temp/codex-clipboard-195ff413-e65b-4755-ac0b-ac23e23ab3f7.jpg",
+    "kind": "state"
+  },
+  {
+    "id": 12,
+    "name": "灵光",
+    "spec": "confident smile and a four point sparkle",
+    "source": "C:/Users/B208/AppData/Local/Temp/codex-clipboard-5a6572b5-6759-48e5-9cb1-86eace8d2667.jpg",
+    "kind": "action"
+  },
+  {
+    "id": 13,
+    "name": "发呆",
+    "spec": "three small dark ellipsis dots over head, flat mouth",
+    "source": "C:/Users/B208/AppData/Local/Temp/codex-clipboard-91bfa3c3-cd5d-4ea2-8b83-dd5ac7ff96ee.jpg",
+    "kind": "state"
+  },
+  {
+    "id": 14,
+    "name": "疑惑",
+    "spec": "question mark at upper left and puzzled half closed eyes",
+    "source": "C:/Users/B208/AppData/Local/Temp/codex-clipboard-b19da146-c41b-43f2-bcdb-47dd115d6f47.jpg",
+    "kind": "state"
+  },
+  {
+    "id": 15,
+    "name": "气鼓鼓",
+    "spec": "angry closed eyes, puffed cheeks, steam puff at upper left",
+    "source": "C:/Users/B208/AppData/Local/Temp/codex-clipboard-c7a971ae-0702-422e-92d5-3291386accd2.jpg",
+    "kind": "state"
+  },
+  {
+    "id": 16,
+    "name": "冒汗",
+    "spec": "three large blue sweat drops",
+    "source": "C:/Users/B208/AppData/Local/Temp/codex-clipboard-064ea9e4-ec60-4196-bb35-97df9cc9a3ed.jpg",
+    "kind": "state"
+  },
+  {
+    "id": 17,
+    "name": "哼歌",
+    "spec": "closed eyes content smile, floating musical notes",
+    "source": "C:/Users/B208/AppData/Local/Temp/codex-clipboard-ff250558-400f-466e-b82a-854c1cbe64f7.jpg",
+    "kind": "action"
+  },
+  {
+    "id": 18,
+    "name": "震惊",
+    "spec": "yellow comic shock burst behind head and long open mouth",
+    "source": "C:/Users/B208/AppData/Local/Temp/codex-clipboard-37deb967-b943-457f-a447-2f4db1516c9a.jpg",
+    "kind": "action"
+  },
+  {
+    "id": 19,
+    "name": "彩虹",
+    "spec": "rainbow vomit and small puddle below mouth",
+    "source": "C:/Users/B208/AppData/Local/Temp/codex-clipboard-1242bb59-5539-4c35-8ce6-026b88ae1257.jpg",
+    "kind": "action"
+  },
+  {
+    "id": 20,
+    "name": "派对",
+    "spec": "party hat, colorful confetti and pink bow on tail",
+    "source": "C:/Users/B208/AppData/Local/Temp/codex-clipboard-3d8a80f6-a6e2-482e-b807-343300d480ab.jpg",
+    "kind": "state"
+  },
+  {
+    "id": 21,
+    "name": "爱心",
+    "spec": "three pink floating hearts, closed smiling eyes",
+    "source": "C:/Users/B208/AppData/Local/Temp/codex-clipboard-08385439-6e59-476b-98c3-c82467c7d3d7.jpg",
+    "kind": "action"
+  },
+  {
+    "id": 22,
+    "name": "害怕",
+    "spec": "blue fear lines on forehead and two sweat drops",
+    "source": "C:/Users/B208/AppData/Local/Temp/codex-clipboard-2ad44ba6-acf6-401c-aa9f-656182fc4e79.jpg",
+    "kind": "state"
+  },
+  {
+    "id": 23,
+    "name": "脸红",
+    "spec": "round little pink O mouth and blushing cheeks",
+    "source": "C:/Users/B208/AppData/Local/Temp/codex-clipboard-9c09c5ee-8a74-430d-89a8-85ef269b2bfd.jpg",
+    "kind": "action"
+  },
+  {
+    "id": 24,
+    "name": "大哭",
+    "spec": "two streams of blue tears and crying open mouth",
+    "source": "C:/Users/B208/AppData/Local/Temp/codex-clipboard-adae1679-6067-4a96-badd-6e7b7a97bdfd.jpg",
+    "kind": "state"
+  },
+  {
+    "id": 25,
+    "name": "开心",
+    "spec": "happy closed crescent eyes and wide pink smile",
+    "source": "C:/Users/B208/AppData/Local/Temp/codex-clipboard-1d418bbf-2619-41b5-ae56-b9a6a0824a33.jpg",
+    "kind": "action"
+  },
+  {
+    "id": 26,
+    "name": "休息",
+    "spec": "relaxed closed eyes and small cat smile, sideways ears",
+    "source": "C:/Users/B208/AppData/Local/Temp/codex-clipboard-bd5bb377-f432-4eb0-9264-bd83cc592e42.jpg",
+    "kind": "state"
+  }
+]
